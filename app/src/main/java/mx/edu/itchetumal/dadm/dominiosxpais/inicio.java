@@ -84,8 +84,7 @@ public class inicio extends AppCompatActivity {
             }
         });
     }
-
-
+    
     class AdaptadorPaises extends ArrayAdapter<Pais> {
 
         public AdaptadorPaises(Context context) {
